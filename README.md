@@ -2,6 +2,13 @@
 
 A glossory for malayalam technical terms which is based on modern malayalam(may be more understandable). Feel free to add new malayalam words and to improve our mother toungue.
 
-*Planned Features
+We are trying to make this a glossory for dravidian languages by which we may localize technical terms to our native languages. Other than that a centralized language can also be made(we may call it NeoDravidian).Malayalam words added are taken from [പച്ചമലയാളം](https://archive.org/details/technical-words-in-malayalam) and [MalayalamLabs(സ്വതന്ത്ര മലയാളം കംപ്യൂട്ടിങ്)](https://community.smc.org.in/t/resources-for-translators/403). I am nothing than a native Malayalam speaker(I don't have any qualifications of degree in that subject). This is My first attempt to make a github repository. So pardon me for  errors or for my bad programming language involved in it. Try to make it best. Who knows may be one day our native languages can  stand alone without depending on any others.
 
-We are trying to make this a glossory for dravidian languages by which we may localize technical terms to our native languages. Other than that a centralized language can also be made(we may call it NeoDravidian).Malayalam words added to this glossary are from [പച്ചമലയാളം](https://archive.org/details/technical-words-in-malayalam) and 
+##Planned Features
+
+ - Tamil Language support
+ - Kannada Language support
+ - Telugu language support
+ - More Contributions to NeoDravidian
+
+But for now Malayalam is the only supported language.
