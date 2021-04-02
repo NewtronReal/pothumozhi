@@ -11,8 +11,8 @@ Window {
     flags: Qt.FramelessWindowHint
     width: 640
     height: 480
-    minimumHeight: 100
-    minimumWidth:100
+    minimumHeight: 400
+    minimumWidth:400
     title: qsTr("Stack")
     color: "transparent"
     property int bw: 5
@@ -195,19 +195,24 @@ Window {
                         anchors.rightMargin: 6
                     }
                 }
-
                 Rectangle {
                     id: rectangle4
                     color: "#e2e1e1"
                     radius: 10
-                    anchors.left: parent.left
+                    anchors.left: text1.right
                     anchors.right: item2.left
                     anchors.top: parent.top
                     anchors.bottom: parent.bottom
-                    anchors.leftMargin: 162
-                    anchors.rightMargin: 57
+                    anchors.leftMargin: 12
+                    anchors.rightMargin: 0
                     anchors.topMargin: 0
                     anchors.bottomMargin: 0
+                    layer.enabled:true
+                    layer.effect:DropShadow{
+                        samples:10
+                        radius:5
+                        color:textInput.activeFocus ? "gray":"transparent"
+                    }
 
                     TextInput {
                         id: textInput
@@ -216,6 +221,24 @@ Window {
                         font.pixelSize: 12
                         horizontalAlignment: Text.AlignLeft
                         verticalAlignment: Text.AlignVCenter
+                        anchors.rightMargin: 8
+                        anchors.leftMargin: 8
+                        onTextChanged:{
+                            listModel.clear()
+                            var translations = JSON.parse(integrations.readFile(":/translations.json"))
+                            for(var i in translations){
+                                if(i.toLowerCase().includes(textInput.text.toLowerCase())||translations[i].translation.toLowerCase().includes(textInput.text.toLowerCase()))
+                                    listModel.append({word:i,translation:translations[i].translation,description:translations[i].description||""})
+                            }
+                        }
+
+                        Text{
+                            anchors.fill:parent
+                            verticalAlignment: Text.AlignVCenter
+                            color:"gray"
+                            text: "ഇവിടെ പരതൂ....."
+                            visible:parent.text == ""
+                        }
                     }
                 }
 
@@ -424,11 +447,3 @@ Window {
         }
     }
 }
-
-
-
-
-
-
-
-
