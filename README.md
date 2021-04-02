@@ -56,7 +56,7 @@ Malayalam as being the only dravidian language supported for now the translation
 
 ```
 "Corresponding English word":{
-    "translation":"മലയാള മറുവാക്ക്"
+    "translation":"മലയാള മറുവാക്ക്",
     "descrpition":"വിവരണം"
  }
  ```
