@@ -1,9 +1,7 @@
-import QtQuick 2.12
-import QtQuick.Shapes 1.12
-import QtQuick.Controls 2.3
-import QtQuick.Layouts 1.3
-import QtGraphicalEffects 1.0
-import QtQuick.Window 2.3
+import QtQuick 2.15
+import QtQuick.Controls 2.12
+import QtGraphicalEffects 1.12
+import QtQuick.Window 2.15
 import NewIntegrations 1.0
 import "qml-models"
 
