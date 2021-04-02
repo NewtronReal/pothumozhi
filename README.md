@@ -60,4 +60,4 @@ Malayalam as being the only dravidian language supported for now the translation
     "descrpition":"വിവരണം"
  }
  ```
-and then commit your changes your commits will be eventually verified and added to the main repository.
+and then commit your changes your commits will be eventually verified and added to the main repository. Descriptions atleast for now is not mandatory. But as software grows it will beccome a neccessary field.
