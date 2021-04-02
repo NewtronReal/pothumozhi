@@ -29,3 +29,17 @@ But for now Malayalam is the only supported language.
  - ```qmake```
  - ```g++```
  - ```make```
+
+## Installing
+
+First clone github repository to whereever you want.
+```git clone https://github.com/NewtronReal/pothumozhi.git```
+and then navigate to your extracted source directory.
+```cd pothumozhi```
+Run qmake first
+```qmake -project pothumozhi.pro```
+
+Now it should have generated a make file in your folder.
+```make && ./pothumozhi``` to run your application.
+
+Alternatively you can also download the source and extract it. Make sure the dependencies are resolved by your system. Some of the features are exclusive to Qt 5.15 so ensure your qt version. Now you are good to go.
