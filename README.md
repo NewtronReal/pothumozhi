@@ -17,3 +17,7 @@ But for now Malayalam is the only supported language.
 
  - Text to speech implement.
  - Verification of current translation.
+
+## Images
+
+![thumbnail1](thumbnails/thumbnail1.png)
