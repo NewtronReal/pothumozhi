@@ -12,3 +12,8 @@ We are trying to make this a glossory for dravidian languages by which we may lo
  - More Contributions to NeoDravidian
 
 But for now Malayalam is the only supported language.
+
+## Features on which we may work for next release
+
+ - Text to speech implement.
+ - Verification of current translation.
