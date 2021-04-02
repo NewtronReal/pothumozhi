@@ -1,4 +1,4 @@
-## പൊതുമൊഴി
+<h1 align=center>പൊതുമൊഴി</h1>
 
 A glossory for malayalam technical terms which is based on modern malayalam(may be more understandable). Feel free to add new malayalam words and to improve our mother toungue.
 
@@ -20,4 +20,12 @@ But for now Malayalam is the only supported language.
  - Text to speech implement.
  - Verification of current translation.
 
+## Build Dependencies
 
+ - ```qt5-default >=5.15```
+ - ```qtquickcontrols >=2.12```
+ - ```qtquickwindow >=2.15```
+ - ```qtquick >=2.15```
+ - ```qmake```
+ - ```g++```
+ - ```make```
