@@ -54,8 +54,10 @@ Alternatively you can also download the source and extract it. Make sure the dep
 
 Malayalam as being the only dravidian language supported for now the translations are too easy to add. In this repository you can find a ```translations.json``` file. You can edit it in a format like given below.
 
-```"Corresponding English word":{
+```
+"Corresponding English word":{
     "translation":"മലയാള മറുവാക്ക്"
     "descrpition":"വിവരണം"
- }```
+ }
+ ```
 and then commit your changes your commits will be eventually verified and added to the main repository.
