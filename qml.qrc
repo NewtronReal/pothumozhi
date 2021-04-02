@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>translations.json</file>
+        <file>qml-models/ListItem.qml</file>
+        <file>src/background.svg</file>
+        <file>src/speaker-enabled.svg</file>
+        <file>src/speaker-disabled.svg</file>
+        <file>qml-models/LanguageBar.qml</file>
+    </qresource>
+</RCC>
