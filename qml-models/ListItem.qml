@@ -56,6 +56,7 @@ Item {
                 anchors.right: parent.right
                 anchors.top: parent.top
                 font.pixelSize: 16
+                elide:Text.ElideRight
                 horizontalAlignment: Text.AlignHCenter
                 anchors.rightMargin: 5
                 anchors.leftMargin: 5
@@ -71,6 +72,7 @@ Item {
                 anchors.left: parent.left
                 anchors.right: parent.right
                 font.pixelSize: 12
+                elide:Text.ElideRight
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 anchors.rightMargin: 6
@@ -111,6 +113,7 @@ Item {
                     font.pixelSize: 12
                     font.bold: true
                     anchors.leftMargin: 5
+                    elide:Text.ElideRight
                 }
 
                 Image {
