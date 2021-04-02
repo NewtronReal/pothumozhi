@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="35.007751mm"
+   height="39.305977mm"
+   viewBox="0 0 35.007751 39.305977"
+   version="1.1"
+   id="svg1691"
+   sodipodi:docname="speaker-disabled.svg"
+   inkscape:version="1.1-alpha (65d249f, 2021-01-17)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1693"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.368204"
+     inkscape:cx="25.580981"
+     inkscape:cy="69.43409"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4145" />
+  <defs
+     id="defs1688" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.050901,-128.84379)">
+    <g
+       id="g3500"
+       transform="matrix(0.61859523,0,0,1.0111676,44.232401,-0.27198128)">
+      <g
+         id="g3678"
+         style="fill:#ffffff">
+        <g
+           id="g4145"
+           style="fill:none;stroke:#ffffff">
+          <path
+             id="rect1774"
+             style="fill:none;stroke:#ffffff;stroke-width:10.1291;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 418.8418,492.0332 c -1.92378,-1.9e-4 -3.81231,0.5414 -5.47852,1.57227 l -46.43359,28.74023 -20.19141,12.49805 c -0.46568,-2.9192 -2.97689,-5.13867 -6.03125,-5.13867 h -26.97461 c -3.38756,0 -6.11328,2.72767 -6.11328,6.11523 v 50.88086 c 0,3.38756 2.72572,6.11328 6.11328,6.11328 h 26.97461 c 3.05398,0 5.56511,-2.21805 6.03125,-5.13672 l 20.19141,12.49805 46.43359,28.74024 c 7.30692,4.52042 16.43832,-1.13363 16.43945,-10.17774 0,0 -7.32226,-38.31888 -7.32226,-57.47851 0,-19.15964 7.32226,-57.47852 7.32226,-57.47852 -10e-4,-6.48828 -4.9087,-11.74725 -10.96093,-11.74805 z"
+             transform="matrix(0.42771641,0,0,0.26166121,-71.504594,0.26897745)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
