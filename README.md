@@ -1,4 +1,4 @@
-<h1 align=center>പൊതുമൊഴി</h1>
+<h1 align=center style="background-image:linear-gradient(to right, lighblue, magenta)">പൊതുമൊഴി</h1>
 
 A glossory for malayalam technical terms which is based on modern malayalam(may be more understandable). Feel free to add new malayalam words and to improve our mother toungue.
 
