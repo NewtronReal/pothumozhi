@@ -189,6 +189,14 @@
     },
     "Version":{
         "translation":"പതിപ്പ്"
+    },
+    "Default":{
+        "translation":"തനത്"
+    },
+    "Log":{
+        "translation":"കൂറി"
+    },
+    "To Cancel":{
+        "translation":"റദ്ദാക്കുക"
     }
-
 }
