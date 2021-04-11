@@ -8,15 +8,15 @@
         "translation":"കയറ്റിവയ്ക്കുക"
     },
     "Sync":{
-        "translation":"ഒന്നിപ്പിക്കുക",
+        "translation":"!ഒന്നിപ്പിക്കുക/സമന്വയിപ്പിക്കുക",
         "description":"ഒന്നിലധികം സാങ്കേതികസംവിധാനങ്ങളെ തമ്മില്‍ ബന്ധിപ്പിക്കുന്നതിന് പറയുന്നത്.\nഉദ്ദാ: ജീമെയില്‍ **അക്കൌണ്ടുമായി ഒന്നിപ്പിക്കുക."
     },
     "UnSync":{
-        "translation":"പിരിക്കുക",
+        "translation":"!പിരിക്കുക/വിസമന്വയിപ്പിക്കുക",
         "description":"ബന്ധിപ്പിക്കപ്പെട്ട സാങ്കേതികസംവിധാനങ്ങളെ വേര്‍പെടുത്തുന്നതിന് പറയുന്നത്."
     },
     "Insert":{
-        "translation":"തിരുുകുക",
+        "translation":"തിരുകുക",
         "description":"ഏതെങ്കിലും ഉപകരണമോ സാങ്കേതിക രേഖകളോ മറ്റ് ഉപകരണങ്ങളിലോ രേഖകളുടെയോ പദങ്ങളുടെയോ ഇടയ്ക്കോ ഘടിപ്പിക്കുന്നതിന് പറയുന്നത്. \nഉദ്ദാ:ചിത്രം തിരുകുക(പണിതുകൊണ്ടിരിക്കുന്ന ചിത്രത്തിനു മുകളിലോ ചിത്രരേഖക്കിടക്കോ ഒര ചിത്രം കൂടി ചേര്‍ക്കുക.)"
     },
     "Choose":{
@@ -28,15 +28,15 @@
         "description":"എന്തെങ്കിലും സാധനങ്ങള്‍ #തകിടില്‍ നിന്നോ #അന്തര്‍ജാലത്തില്‍ നിന്നോകണ്ടെത്തുന്നതിന് പറയുന്നത്"
     },
     "Load/Select":{
-        "translation":"എടുക്കുക",
+        "translation":"#എടുക്കുക",
         "description":"തിരഞ്ഞെടുക്കുക എന്നതിനു പകരം പ്രത്യേക സാഹചര്യങ്ങളിന്‍ ഉപയോഗിക്കുന്നു. രേഖകളോ മറ്റെന്തെങ്കിലുമോ **സോഫ്റ്റവെയര്‍ വായിച്ചെടുക്കുന്ന പണി."
     },
     "Prefix":{
-        "translation":"ഉപസര്‍ഗ്ഗം",
+        "translation":"#ഉപസര്‍ഗ്ഗം",
         "description":"ഏതെങ്കിലും സോഫ്വെയര്‍ പ്രവര്‍ത്തിക്കുവാനാവശ്യമുള്ള സജ്ജീകരണ രേഖകളും അനുബന്ധ രേഖമളും വയ്ക്കുന്ന അറ"
     },
     "Folder":{
-        "translation":"അറ",
+        "translation":"!കള്ളി/അറ/മടക്ക്",
         "description":"വിവിധ രേഖകള്‍ അടുക്കി വയ്ക്കുവാനായി **കംപ്യൂട്ടര്‍ ഒരുക്കുന്ന സൌകര്യം. പല രേഖകള്‍ അടുക്കിവയ്ക്കുവാന്‍ നമ്മള്‍ കള്ളികളും സഞ്ചികളും ഉപയോഗിക്കാറില്ലേ അതുപോലെ."
     },
     "Worker":{
@@ -112,23 +112,23 @@
         "description":""
     },
     "Debug":{
-        "translation":"പിഴതിരിത്തുക",
+        "translation":"#പിഴതിരുത്തല്‍",
         "description":""
     },
     "Bug":{
-        "translation":"പിഴവ്",
+        "translation":"#പിഴവ്",
         "description":""
     },
     "Penulty":{
-        "translation":"പിഴ",
+        "translation":"#പിഴ",
         "description":""
     },
     "Disk":{
-        "translation":"തകിട്",
+        "translation":"#തകിട്",
         "description":""
     },
     "Mouse":{
-        "translation":"കാട്ടി",
+        "translation":"ചൂണ്ടുകൈ",
         "description":""
     },
     "To Loop":{
@@ -144,31 +144,31 @@
         "description":""
     },
     "Binary File/Executable":{
-        "translation":"തറരേഖ",
+        "translation":"#തറരേഖ",
         "description":""
     },
     "Binary Language":{
-        "translation":"തറമൊഴി",
+        "translation":"#തറമൊഴി",
         "description":""
     },
     "Binary":{
-        "translation":"തറ",
+        "translation":"#തറ",
         "description":""
     },
     "Path/Location":{
-        "translation":"ഇടം",
+        "translation":"#ഇടം",
         "description":""
     },
     "Installation Path":{
-        "translation":"ഇന്‍സ്റ്റാളിടം",
+        "translation":"**ഇന്‍സ്റ്റാളിടം",
         "description":""
     },
     "Installation Folder":{
-        "translation":"ഇന്‍സ്റ്റാളറ",
+        "translation":"**ഇന്‍സ്റ്റാളറ",
         "description":""
     },
     "Error":{
-        "translation":"കുഴപ്പം",
+        "translation":"#കുഴപ്പം",
         "description":""
     },
     "Filter":{
@@ -176,7 +176,7 @@
         "description":""
     },
     "Launcher":{
-        "translation":"ലോഞ്ചര്‍",
+        "translation":"**ലോഞ്ചര്‍",
         "description":""
     },
     "Arguments/Parameters":{
@@ -184,31 +184,27 @@
         "description":""
     },
     "Cloud Storage":{
-        "translation":"മേഘസംഭരണി",
+        "translation":"മ#േഘസംഭരണി",
         "description":""
     },
     "Manually":{
-        "translation":"ആളാല്‍",
+        "translation":"#നിര്‍ദ്ദേശിതം",
         "description":""
     },
     "Automatically":{
-        "translation":"താനേ",
+        "translation":"#താനേ",
         "description":""
     },
     "Library":{
-        "translation":"ശാല",
+        "translation":"#ശാല",
         "description":""
     },
     "WorkSpace":{
-        "translation":"പണിയിടം",
+        "translation":"#പണിയിടം",
         "description":""
     },
     "Gaming Library":{
-        "translation":"കളിശാല",
-        "description":""
-    },
-    "Default":{
-        "translation":"സാധാരണ",
+        "translation":"#കളിശാല",
         "description":""
     },
     "Settings":{
@@ -252,15 +248,31 @@
         "description":""
     },
     "Default":{
-        "translation":"തനത്",
+        "translation":"#തനത്",
         "description":""
     },
     "Log":{
-        "translation":"കൂറി",
+        "translation":"കുറി",
         "description":""
     },
     "To Cancel":{
         "translation":"റദ്ദാക്കുക",
         "description":""
+    },
+    "User Interface":{
+        "translation":"#ദൃശ്യമുഖം",
+        "description":"ഉപഭോക്താവുമായി സമ്പര്‍ക്കപ്പെടുന്ന ഉപകരണത്തിന്റെ സമ്പര്‍ക്കമുഖം."
+    },
+    "Graphics":{
+        "translation":"#വരകല",
+        "description":"ദൃശ്യാനുഭൂതികളിലൂടെ ഉപഭോക്താവുമായി സമ്പര്‍ക്കപ്പെടുവാനുപയോഗിക്കുന്ന ഏതൊരു മാര്‍ഗ്ഗത്തേയും നമ്മുക്ക് വരകല എന്നു പറയാം."
+    },
+    "Monitor":{
+        "translation":"ദൃശ്യപ്രതലം",
+        "description":"ദൃശ്യങ്ങളിലൂടെ കംപ്യൂട്ടറുമായി സമ്പര്‍ക്കപ്പെടുവാന്‍ സഹായിക്കുന്ന ഉപകരണം."
+    },
+    "Cursor":{
+        "translation":"ചൂണ്ടുവര",
+        "description":"എഴുത്തുകളും മറ്റും തിരുത്തുവാനുപയോഗിക്കുന്ന പ്രതലത്തില്‍ മിന്നിക്കൊണ്ടിരിക്കുന്ന ഒരു വര."
     }
 }
