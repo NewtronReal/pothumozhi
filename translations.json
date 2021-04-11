@@ -8,195 +8,259 @@
         "translation":"കയറ്റിവയ്ക്കുക"
     },
     "Sync":{
-        "translation":"ഒന്നിപ്പിക്കുക"
+        "translation":"ഒന്നിപ്പിക്കുക",
+        "description":"ഒന്നിലധികം സാങ്കേതികസംവിധാനങ്ങളെ തമ്മില്‍ ബന്ധിപ്പിക്കുന്നതിന് പറയുന്നത്.\nഉദ്ദാ: ജീമെയില്‍ **അക്കൌണ്ടുമായി ഒന്നിപ്പിക്കുക."
     },
     "UnSync":{
-        "translation":"പിരിക്കുക"
+        "translation":"പിരിക്കുക",
+        "description":"ബന്ധിപ്പിക്കപ്പെട്ട സാങ്കേതികസംവിധാനങ്ങളെ വേര്‍പെടുത്തുന്നതിന് പറയുന്നത്."
     },
     "Insert":{
-        "translation":"തിരുുകുക"
+        "translation":"തിരുുകുക",
+        "description":"ഏതെങ്കിലും ഉപകരണമോ സാങ്കേതിക രേഖകളോ മറ്റ് ഉപകരണങ്ങളിലോ രേഖകളുടെയോ പദങ്ങളുടെയോ ഇടയ്ക്കോ ഘടിപ്പിക്കുന്നതിന് പറയുന്നത്. \nഉദ്ദാ:ചിത്രം തിരുകുക(പണിതുകൊണ്ടിരിക്കുന്ന ചിത്രത്തിനു മുകളിലോ ചിത്രരേഖക്കിടക്കോ ഒര ചിത്രം കൂടി ചേര്‍ക്കുക.)"
     },
     "Choose":{
-        "translation":"തിരഞ്ഞെടുക്കൂ"
+        "translation":"തിരഞ്ഞെടുക്കൂ",
+        "description":"തുറന്നു തന്ന ജാലകത്തില്‍ നിന്നും ആവശ്യമായ രേഖകളോ രേഖകളുടെ കൂട്ടമോ തിരഞ്ഞെടുക്കുന്നതിന് പറയുന്നത്."
     },
     "Find":{
-        "translation":"കണ്ടെത്തുക"
+        "translation":"കണ്ടെത്തുക",
+        "description":"എന്തെങ്കിലും സാധനങ്ങള്‍ #തകിടില്‍ നിന്നോ #അന്തര്‍ജാലത്തില്‍ നിന്നോകണ്ടെത്തുന്നതിന് പറയുന്നത്"
     },
     "Load/Select":{
-        "translation":"എടുക്കുക"
+        "translation":"എടുക്കുക",
+        "description":"തിരഞ്ഞെടുക്കുക എന്നതിനു പകരം പ്രത്യേക സാഹചര്യങ്ങളിന്‍ ഉപയോഗിക്കുന്നു. രേഖകളോ മറ്റെന്തെങ്കിലുമോ **സോഫ്റ്റവെയര്‍ വായിച്ചെടുക്കുന്ന പണി."
     },
     "Prefix":{
-        "translation":"ഉപസര്‍ഗ്ഗം"
+        "translation":"ഉപസര്‍ഗ്ഗം",
+        "description":"ഏതെങ്കിലും സോഫ്വെയര്‍ പ്രവര്‍ത്തിക്കുവാനാവശ്യമുള്ള സജ്ജീകരണ രേഖകളും അനുബന്ധ രേഖമളും വയ്ക്കുന്ന അറ"
     },
     "Folder":{
-        "translation":"അറ"
+        "translation":"അറ",
+        "description":"വിവിധ രേഖകള്‍ അടുക്കി വയ്ക്കുവാനായി **കംപ്യൂട്ടര്‍ ഒരുക്കുന്ന സൌകര്യം. പല രേഖകള്‍ അടുക്കിവയ്ക്കുവാന്‍ നമ്മള്‍ കള്ളികളും സഞ്ചികളും ഉപയോഗിക്കാറില്ലേ അതുപോലെ."
     },
     "Worker":{
-        "translation":"പണിക്കാരന്‍"
+        "translation":"പണിക്കാരന്‍",
+        "description":"സാങ്കേതിക ജോലികള്‍ ചെയ്യുന്ന #നിര്‍ദ്ദേശത്തെയോ ഉപകരണ ഭാഗത്തെയോ പറയുന്നത്."
     },
     "Text":{
-        "translation":"എഴുത്ത്"
+        "translation":"എഴുത്ത്",
+        "description":"**കംപ്യൂട്ടര്‍ പ്രതലത്തില്‍ കാണുന്ന എഴത്തുകളെ വിളിക്കുന്നത്."
     },
     "Font Style/Family":{
-        "translation":"എഴത്തുഭംഗി"
+        "translation":"എഴുത്തുഭംഗി",
+        "description":"എഴുത്തിന്റെ ഭംഗിക്കുപറയുന്നത്. മനുഷ്യര്‍ക്ക് പല കൈയ്യക്ഷരം എന്ന പോലെ **കംപ്യൂട്ടര്‍ പ്രതലത്തുല്‍ കാണുന്ന എഴുത്തുകള്‍ക്കും ഓരോ ഭംഗിയുണ്ട്."
     },
     "Font Color":{
-        "translation":"എഴുത്തുനിറം"
+        "translation":"എഴുത്തുനിറം",
+        "description":"കാണുന്ന എഴുത്തിന്റെ നിറം."
     },
     "Font Size":{
-        "translation":"എഴത്തുവണ്ണം"
+        "translation":"എഴത്തുവണ്ണം",
+        "description":"എഴുത്തിന്റെ വലുപ്പം. അക്ഷര വലുപ്പം."
     },
     "Theme":{
-        "translation":"അലങ്കാരം"
+        "translation":"അലങ്കാരം",
+        "description":"ഒരു **സോഫ്റ്റ്വെയറില്‍ ദൃശ്യഭംഗിക്കായി ഉപയോഗിക്കുന്ന നിറം, എഴുത്തിന്റെരൂപം എന്നിങ്ങനെ സോഫ്റ്റ്വെയര്‍ മോഡികൂട്ടുവാനുപയോഗിക്കുന്നവയുടെ കൂട്ടത്തിനു പറയുന്നത്."
     },
     "Canvas":{
-        "translation":"ചിത്രത്തുണി"
+        "translation":"ചിത്രത്തുണി",
+        "description":"പടംവര **സോഫ്റ്റ്വെയരുകളില്‍ പടം വരക്കാനുപയോഗിക്കുന്ന പ്രതലത്തിനു പറയുന്നത്."
     },
     "Pen":{
-        "translation":"പേന"
+        "translation":"പേന",
+        "description":"ദൃശ്യകലാ **സോഫ്റ്റ്വെയറുകളില്‍ വരക്കുവാനുപയോഗക്കുന്ന പേനപോലെയുള്ള ഒരു സാമഗ്രി."
     },
     "Pencil":{
-        "translation":"വര്‍ണ്ണിക"
+        "translation":"വര്‍ണ്ണിക",
+        "description":"ദൃശ്യകലാ **സോഫ്റ്റ്വെയറുകളില്‍ വരക്കുവാനുപയോഗക്കുന്ന പെന്‍സില്‍പോലുള്ള ഒരു സാമഗ്രി."
     },
     "Install":{
-        "translation":"**ഇന്‍സ്റ്റാള്‍"
+        "translation":"**ഇന്‍സ്റ്റാള്‍",
+        "description":"ഒരു **സോഫ്റ്റവെയറോ നിര്‍ദ്ദേശമോ **കംപ്യൂട്ടര്‍ #തകിടിലേക്ക് വയ്ക്കുന്നതിന് പറയുന്നത്."
     },
     "Uninstall":{
-        "translation":"എടുത്തുനീക്കുക"
+        "translation":"എടുത്തുനീക്കുക",
+        "description":"ഇന്സ്റ്റാള്‍ ചെയ്തത് നീക്കം ചെയ്യുന്നതിന് പറയുന്നത്."
     },
     "Destroy":{
-        "translation":"തകര്‍ക്കുക"
+        "translation":"തകര്‍ക്കുക",
+        "description":"ഓടിക്കൊണ്ടിരിക്കുന്ന നിര്‍ദ്ദേത്തെയോ പ്രവര്‍ത്തിക്കാനാകുന്ന ഒരു രേഖയെയോ പണി തീര്‍ക്കുന്നതിനു മുന്പ് ഇല്ലായ്മ ചെയ്യുകയോ ഉപയോഗശൂന്യമാക്കുകയോ ചെയ്യുക."
     },
     "Kill":{
-        "translation":"കൊല്ലുക"
+        "translation":"കൊല്ലുക",
+        "description":"ഓടിക്കൊണ്ടിരിക്കുന്ന നിര്‍ദ്ദേശം പണി തീര്‍ക്കുന്നതിനു മുന്പ് പിന്വലിക്കുക."
     },
     "Process":{
-        "translation":"പ്രവര്‍ത്തനം"
+        "translation":"പ്രവര്‍ത്തനം",
+        "description":"സാങ്കേതികപരമായ പ്രവര്‍ത്തനങ്ങള്‍. ഉദ്ദാ:**ഇന്സ്റ്റാള്‍, നീക്കം... ആദി"
     },
     "Action":{
-        "translation":"ക്രിയ/പണി"
+        "translation":"ക്രിയ/പണി",
+        "description":"നിര്‍ദ്ദേശങ്ങളോ **സോഫ്റ്റ്വെയറുകളോ ഉപയോക്താവോ ചെയുന്ന/ചെയ്യേണ്ട സാങ്കേതികജോലികള്‍."
     },
     "Work":{
-        "translation":"പണി"
+        "translation":"പണി",
+        "description":"നിര്‍ദ്ദേശങ്ങളോ **സോഫ്റ്റ്വെയറുകളോ ചെയുന്ന സാങ്കേതികജോലികള്‍"
     },
     "Command":{
-        "translation":"ആജ്ഞ"
+        "translation":"ആജ്ഞ",
+        "description":""
     },
     "To Run":{
-        "translation":"ഓടിക്കുക"
+        "translation":"ഓടിക്കുക",
+        "description":""
     },
     "Debug":{
-        "translation":"പിഴതിരിത്തുക"
+        "translation":"പിഴതിരിത്തുക",
+        "description":""
     },
     "Bug":{
-        "translation":"പിഴവ്"
+        "translation":"പിഴവ്",
+        "description":""
     },
     "Penulty":{
-        "translation":"പിഴ"
+        "translation":"പിഴ",
+        "description":""
     },
     "Disk":{
-        "translation":"തകിട്"
+        "translation":"തകിട്",
+        "description":""
     },
     "Mouse":{
-        "translation":"കാട്ടി"
+        "translation":"കാട്ടി",
+        "description":""
     },
     "To Loop":{
-        "translation":"ചുറ്റുക"
+        "translation":"ചുറ്റുക",
+        "description":""
     },
     "Address":{
-        "translation":"വിലാസം"
+        "translation":"വിലാസം",
+        "description":""
     },
     "File":{
-        "translation":"രേഖ"
+        "translation":"രേഖ",
+        "description":""
     },
     "Binary File/Executable":{
-        "translation":"തറരേഖ"
+        "translation":"തറരേഖ",
+        "description":""
     },
     "Binary Language":{
-        "translation":"തറമൊഴി"
+        "translation":"തറമൊഴി",
+        "description":""
     },
     "Binary":{
-        "translation":"തറ"
+        "translation":"തറ",
+        "description":""
     },
     "Path/Location":{
-        "translation":"ഇടം"
+        "translation":"ഇടം",
+        "description":""
     },
     "Installation Path":{
-        "translation":"ഇന്‍സ്റ്റാളിടം"
+        "translation":"ഇന്‍സ്റ്റാളിടം",
+        "description":""
     },
     "Installation Folder":{
-        "translation":"ഇന്‍സ്റ്റാളറ"
+        "translation":"ഇന്‍സ്റ്റാളറ",
+        "description":""
     },
     "Error":{
-        "translation":"കുഴപ്പം"
+        "translation":"കുഴപ്പം",
+        "description":""
     },
     "Filter":{
-        "translation":"അരിപ്പ"
+        "translation":"അരിപ്പ",
+        "description":""
     },
     "Launcher":{
-        "translation":"ലോഞ്ചര്‍"
+        "translation":"ലോഞ്ചര്‍",
+        "description":""
     },
     "Arguments/Parameters":{
-        "translation":"വാദങ്ങള്‍"
+        "translation":"വാദങ്ങള്‍",
+        "description":""
     },
     "Cloud Storage":{
-        "translation":"മേഘസംഭരണി"
+        "translation":"മേഘസംഭരണി",
+        "description":""
     },
     "Manually":{
-        "translation":"ആളാല്‍"
+        "translation":"ആളാല്‍",
+        "description":""
     },
     "Automatically":{
-        "translation":"താനേ"
+        "translation":"താനേ",
+        "description":""
     },
     "Library":{
-        "translation":"ശാല"
+        "translation":"ശാല",
+        "description":""
     },
     "WorkSpace":{
-        "translation":"പണിയിടം"
+        "translation":"പണിയിടം",
+        "description":""
     },
     "Gaming Library":{
-        "translation":"കളിശാല"
+        "translation":"കളിശാല",
+        "description":""
     },
     "Default":{
-        "translation":"സാധാരണ"
+        "translation":"സാധാരണ",
+        "description":""
     },
     "Settings":{
-        "translation":"ക്രമീകരണങ്ങള്‍"
+        "translation":"ക്രമീകരണങ്ങള്‍",
+        "description":""
     },
     "To Login":{
-        "translation":"പ്രവേശിക്കുക"
+        "translation":"പ്രവേശിക്കുക",
+        "description":""
     },
     "To Logout":{
-        "translation":"നിര്‍ഗമിക്കുക/പുറത്തിറങ്ങുക"
+        "translation":"നിര്‍ഗമിക്കുക/പുറത്തിറങ്ങുക",
+        "description":""
     },
     "To Paste":{
-        "translation":"പതിപ്പിക്കുക"
+        "translation":"പതിപ്പിക്കുക",
+        "description":""
     },
     "To Copy":{
-        "translation":"പകര്‍ത്തുക"
+        "translation":"പകര്‍ത്തുക",
+        "description":""
     },
     "Duplicate":{
-        "translation":"പകര്‍പ്പ്"
+        "translation":"പകര്‍പ്പ്",
+        "description":""
     },
     "Game Folder":{
-        "translation":"കളിയറ"
+        "translation":"കളിയറ",
+        "description":""
     },
     "To Import":{
-        "translation":"കൊണ്ടുവരുക"
+        "translation":"കൊണ്ടുവരുക",
+        "description":""
     },
     "Update":{
-        "translation":"പുതുക്കല്‍"
+        "translation":"പുതുക്കല്‍",
+        "description":""
     },
     "Version":{
-        "translation":"പതിപ്പ്"
+        "translation":"പതിപ്പ്",
+        "description":""
     },
     "Default":{
-        "translation":"തനത്"
+        "translation":"തനത്",
+        "description":""
     },
     "Log":{
-        "translation":"കൂറി"
+        "translation":"കൂറി",
+        "description":""
     },
     "To Cancel":{
-        "translation":"റദ്ദാക്കുക"
+        "translation":"റദ്ദാക്കുക",
+        "description":""
     }
 }
