@@ -1,6 +1,6 @@
 <h1 align=center style="">പൊതുമൊഴി</h1>
 
-A glossory for malayalam technical terms which is based on modern malayalam(may be more understandable). Feel free to add new malayalam words and to improve our mother toungue.
+A glossary for malayalam technical terms which is based on modern malayalam(may be more understandable). Feel free to add new malayalam words and to improve our mother toungue.
 
 ![thumbnail1](thumbnails/thumbnail1.png) ![thumbnail2](thumbnails/thumbnail2.png)
 
